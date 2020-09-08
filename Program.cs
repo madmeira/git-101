@@ -9,6 +9,7 @@ namespace git_101
             Console.WriteLine("Hello World!");
             Console.WriteLine("What a lovely day!");
             Console.WriteLine("NICE!");
+            Console.WriteLine("Hello github!");
         }
     }
 }
