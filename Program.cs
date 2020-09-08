@@ -7,6 +7,7 @@ namespace git_101
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("What a lovely day!");
         }
     }
 }
